@@ -1,0 +1,3 @@
+namespace:
+  name: customer-beta-prod-inventory_service
+  ldap-group: inventory-production
