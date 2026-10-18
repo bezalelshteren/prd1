@@ -1,0 +1,14 @@
+namespace:
+  name: devopss-prd-payenhhjhjh_apis
+  ldap-group: backend-dev
+  scc: anyuid
+  compute:
+    cpu:
+      request: "250m"
+      limit: "1"
+    memory:
+      request: "256Mi"
+      limit: "1Gi"
+    storage:
+      size: "5Gi"
+      storage-class: "standard"
