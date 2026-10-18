@@ -1,7 +1,7 @@
 namespace:
   name: customer-test-prd-orderses-serviceses
   ldap-group: platform-dev
-  scc: None
+  scc: anyuid
   compute:
     cpu:
       request: "500m"
