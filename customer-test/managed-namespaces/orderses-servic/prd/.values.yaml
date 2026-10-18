@@ -1,0 +1,14 @@
+namespace:
+  name: customer-test-prd-orderses-servic
+  ldap-group: platform-dev
+  scc: None
+  compute:
+    cpu:
+      request: "500m"
+      limit: "2"
+    memory:
+      request: "512Mi"
+      limit: "2Gi"
+    storage:
+      size: "10Gi"
+      storage-class: "fast-ssd"
