@@ -1,0 +1,6 @@
+namespace:
+  name: custonnmer-te-prd-orders-ser11vnb
+  ip: 10.20.10.10
+  ip_pmm: 
+  ecs_id: ecs-prd-001
+  ecs_token: prd-token-example
