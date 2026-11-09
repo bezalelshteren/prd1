@@ -1,0 +1,6 @@
+namespace:
+  name: customer-test78887-prd-orders-ser72vicecdmcz11213
+  ip: 10.30.10.100
+  ip_pmm: 
+  ecs_id: ecs-customer-test-003
+  ecs_token: example-ecs-token
