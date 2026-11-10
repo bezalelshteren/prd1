@@ -1,0 +1,6 @@
+namespace:
+  name: customer-te1st788879-prd-orders-ser7233vicemcz11213
+  ip: 10.30.10.100
+  ip_pmm: 
+  ecs_id: ecs-customer-test-003
+  ecs_token: example-ecs-token
